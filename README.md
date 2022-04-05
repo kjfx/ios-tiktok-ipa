@@ -7,7 +7,8 @@ ios tiktok 免拔卡教程：https://youtu.be/W55UO8eizgA
 <br>
 备用下载地址：https://github.com/kjfx/tiktok-ios-ipa/releases/download/TikTokIOS/TikTok-IOS.zip
 <br><br>
-美区 Apple ID 申请方法：https://youtu.be/rFeJvozMaDk
+美区 Apple ID 申请方法：https://youtu.be/rFeJvozMaDk<br>
+购买 Shadowrocket 的时候，如果不能支付，可以去某宝购买“礼品卡”充值购买。
 
 <br><br><br>
 <img src="https://raw.githubusercontent.com/kjfx/ios-tiktok-ipa/main/%E6%8A%93%E5%8C%85%E4%B8%8B%E8%BD%BD-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98.jpg" />
