@@ -9,7 +9,7 @@ ios tiktok 免拔卡教程：▶ https://youtu.be/a0dpTOqV5jk
 <br><br>
 美区 Apple ID 申请方法：https://youtu.be/rFeJvozMaDk<br>
 购买美区ID+小火箭 Shadowrocket：https://www.kejistore.cf/<br>
-我使用的机场网址：http://t.kxswa.com/
+我使用的机场网址：http://www.txyun.xyz/
 
 <br><br><br>
 <img src="https://raw.githubusercontent.com/kjfx/ios-tiktok-ipa/main/%E6%8A%93%E5%8C%85%E4%B8%8B%E8%BD%BD-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98.jpg" />
