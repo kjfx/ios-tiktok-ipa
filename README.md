@@ -7,7 +7,7 @@ ios tiktok 免拔卡教程：▶ https://youtu.be/n_PVfjKoAr4
 <br>
 备用下载地址：https://github.com/kjfx/tiktok-ios-ipa/releases/download/TikTokIOS/TikTok-IOS.zip
 <br><br>
-美区 Apple ID 申请方法：https://youtu.be/rFeJvozMaDk<br>
+美区 Apple ID 申请方法：https://github.com/kjfx/AppleID<br>
 我使用的机场网址：http://www.txyun.xyz/
 
 <br><br><br>
