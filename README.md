@@ -1,7 +1,7 @@
 # ios tiktok ipa抓包下载，tiktok 21.1.0 ipa 旧版本历史版本下载，免拔卡解锁
 
 最新版的TikTok不支持免拔卡使用，需要下载旧版。<br>
-ios tiktok 免拔卡教程：▶ https://youtu.be/n_PVfjKoAr4
+ios tiktok 免拔卡教程：▶ https://youtu.be/K_5E47oTXng
 <br><br>
 软件代码下载：https://kjfx.lanzoui.com/ipVP1vgi1hi
 <br>
