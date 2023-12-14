@@ -3,7 +3,7 @@
 最新版的TikTok不支持免拔卡使用，需要下载旧版。<br>
 ios tiktok 免拔卡教程：▶ https://youtu.be/TbEbL-FYgZg
 <br><br>
-软件代码下载：https://kjfx.lanzoui.com/ipVP1vgi1hi
+软件代码下载：https://kjfx.lanzoui.com/ifft01huzs1i
 <br>
 备用下载地址：https://github.com/kjfx/tiktok-ios-ipa/releases/download/TikTokIOS/TikTok-IOS.zip
 <br><br>
